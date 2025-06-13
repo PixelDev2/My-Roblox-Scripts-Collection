@@ -22,20 +22,6 @@ Scripts are written in **Lua**, Roblox’s scripting language.
 
 ---
 
-## Scripts Included
-
-Here’s a list of some of the main scripts you’ll find here:
-
-- **AutoFarm** — Automated farming script for XP and resources.  
-- **Teleportation Tool** — Instantly teleport between game locations.  
-- **GUI Enhancer** — Custom UI improvements and overlays.  
-- **Admin Commands** — Utilities for managing multiplayer sessions.  
-- **Game-Specific Scripts** — Scripts tailored for popular Roblox games.
-
-*(More scripts will be added regularly!)*
-
----
-
 ## Usage
 
 To use any of these scripts:
@@ -55,12 +41,6 @@ Want to contribute? Feel free to:
 - Submit pull requests with new scripts or improvements.  
 - Report bugs or request features via Issues.  
 - Share ideas or help with documentation.
-
----
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
