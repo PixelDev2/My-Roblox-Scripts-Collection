@@ -7,10 +7,8 @@ Welcome to my **Roblox Scripts** repository! 🎮 This project contains all my p
 ## Table of Contents
 
 - [About](#about)  
-- [Scripts Included](#scripts-included)  
 - [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Contributing](#contributing)   
 - [Contact](#contact)  
 
 ---
