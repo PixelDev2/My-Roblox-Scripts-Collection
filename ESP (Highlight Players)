@@ -1,0 +1,15 @@
+-- Basic ESP Script
+local players = game:GetService("Players")
+
+for _, player in pairs(players:GetPlayers()) do
+    if player ~= game.Players.LocalPlayer then
+        local character = player.Character
+        if character then
+            local highlight = Instance.new("Highlight")
+            highlight.Adornee = character
+            highlight.FillColor = Color3.new(1, 0, 0)
+            highlight.OutlineColor = Color3.new(1, 1, 1)
+            highlight.Parent = character
+        end
+    end
+end
