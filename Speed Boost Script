@@ -1,0 +1,8 @@
+-- Speed Boost Script
+local player = game.Players.LocalPlayer
+local speedBoostAmount = 50
+
+if player.Character and player.Character:FindFirstChild("Humanoid") then
+    player.Character.Humanoid.WalkSpeed = speedBoostAmount
+    print("Speed boosted to " .. speedBoostAmount)
+end
