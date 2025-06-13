@@ -1,0 +1,10 @@
+-- Auto Farm Script
+local player = game.Players.LocalPlayer
+local tool = player.Backpack:FindFirstChild("FarmingTool") or player.Character:FindFirstChild("FarmingTool")
+
+while true do
+    if tool then
+        tool:Activate()
+    end
+    wait(1) -- Adjust delay to suit farming speed
+end
