@@ -68,9 +68,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 If you want to reach me:
 
-- Discord: YourDiscord#1234  
-- Email: your.email@example.com  
-- Roblox Profile: [YourProfileLink](https://www.roblox.com/users/YourUserId/profile)
+- Discord: darkvfx_2
 
 ---
 
