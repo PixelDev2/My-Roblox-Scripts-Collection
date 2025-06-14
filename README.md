@@ -46,7 +46,7 @@ Want to contribute? Feel free to:
 
 If you want to reach me:
 
-- Discord: darkvfx_2
+- Discord: pixeldev_v
 
 ---
 
